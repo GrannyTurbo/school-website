@@ -116,3 +116,21 @@ nav ul li p{
 #indexButton:hover{
 	content: url('images/indexButtonAlt.png')
 }
+
+#existingTechnology{
+	height: 28px;
+	width: 320px;
+}
+
+#existingTechnology:hover{
+	content: url('images/existingTechnologyAlt.png')
+}
+
+#technologyIdeas{
+	height: 28px;
+	width: 268px;
+}
+
+#technologyIdeas:hover{
+	content: url('images/technologyIdeasAlt.png')
+}
