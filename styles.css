@@ -1,0 +1,118 @@
+body {
+  background-color: #004466;
+  font-family: "comfortaa", sans-serif;
+  color: #F27166;
+}
+
+h1 {
+  color: #F27166;
+  font-size: 25px;
+  text-decoration-line: underline;
+}
+
+h2 {
+  color: #F27166;
+  font-size: 20px;
+  text-decoration-line: underline;
+}
+
+p{
+    font-size: 17px;
+}
+
+a{
+  size: "9pxs";
+}
+
+.contentImg{
+    border: 2px solid #F27166;
+    border-radius: 7.5px;
+	margin-right: 10px;
+}
+
+nav ul {
+  border-style: solid;
+  border-color: #F27166;
+  border-width: 5px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+nav ul li {
+      list-style-type: none;
+      display: inline;
+      margin-right: 5px;
+      margin-left: 5px;
+      color: #F27166;
+}
+
+  nav ul li a {
+      text-decoration: none;
+      color: #F27166;
+      /*border: 2px solid #F27166;/*
+      border-radius: 7.5px;
+      padding: 5px;
+  }
+
+nav ul li:hover{
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+nav ul li a:hover{
+  border: 4px solid #15BFBF;
+  color: #15BFBF;
+}
+
+#nav-location{
+  border: 1px solid White;
+  padding: 5px;
+}
+
+nav ul li p{
+  border: 1px solid white;
+}
+
+.stylishBox {
+  background-color: #87CEFA;
+  color: #A52A2A;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #F5FFFA;
+  border-radius: 10px;
+}
+
+.someSpacing {
+  padding: 10px;
+  margin-top: 20px;
+}
+
+#logo{
+    border: 5px solid #F27166;
+    border-radius: 7.5px;
+}
+
+#logo:hover{
+    border: 5px solid #15BFBF;
+}
+
+/*.rightSideP{
+	float:middle;
+}
+
+.leftSideImg{
+	float:left;
+}
+*/
+.footA{
+	font-size: 5px
+}
+
+#indexButton{
+	height: 28px;
+	width: 76;
+}
+
+#indexButton:hover{
+	content: url('images/indexButtonAlt.png')
+}
